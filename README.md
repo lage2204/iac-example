@@ -1,2 +1,4 @@
-# iac-example
-Terraform project for deployment infrastructure on Azure Cloud
+# IaC Example Project with Terraform
+
+## Owner
+- Luis Alejandro Galaviz
